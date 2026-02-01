@@ -1,5 +1,5 @@
 # Business-Coffee-Shop-
-This dashboard is not about coffee. 
+# This dashboard is not about coffee. 
 
 It’s about how data supports daily business decisions.
 
