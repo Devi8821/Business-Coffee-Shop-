@@ -5,7 +5,9 @@ It’s about how data supports daily business decisions.
 If I were managing a coffee shop, I wouldn’t ask “How many charts do we have?” I’d ask:
 
 • When should I add more staff?
+
 • Which products should I prioritize in inventory?
+
 • Which store actually drives the business?
 
 That’s the mindset behind this Coffee Shop Business Performance Dashboard (2023). From the data, I focused on:
