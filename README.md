@@ -1,5 +1,5 @@
 # Business-Coffee-Shop-
-This dashboard is not about coffee.
+# This dashboard is not about coffee.
 It’s about how data supports daily business decisions.
 
 If I were managing a coffee shop, I wouldn’t ask “How many charts do we have?”
@@ -9,7 +9,6 @@ I’d ask:
 • Which store actually drives the business?
 
 That’s the mindset behind this Coffee Shop Business Performance Dashboard (2023).
-
 From the data, I focused on:
 ☕ Staffing decisions — transactions peak between 7–10 AM, highlighting strong morning demand
 📦 Inventory planning — coffee dominates revenue contribution, while regular size is the most preferred option
