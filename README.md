@@ -1,4 +1,4 @@
-**☕ Coffee Shop Business Performance Analysis**
+# **☕ Coffee Shop Business Performance Analysis**
 
 **📌 Project Overview**
 
