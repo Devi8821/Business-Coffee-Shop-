@@ -1,29 +1,65 @@
-# Business Coffee Shop
-# This dashboard is not about coffee. 
+☕ Coffee Shop Business Performance Analysis
+📌 Project Overview
 
-It’s about how data supports daily business decisions.
+This project analyzes coffee shop sales performance to identify customer purchasing patterns, operational trends, and business opportunities. The objective is to demonstrate how data can support daily business decisions in retail operations.
 
-If I were managing a coffee shop, I wouldn’t ask “How many charts do we have?” 
-I’d ask:
+🎯 Business Questions
+When are the busiest business hours?
+Which products generate the highest revenue?
+Which product sizes are most preferred?
+Which store performs the best?
+What business actions can improve sales and operations?
 
-• When should I add more staff?
+🛠 Tools
+Microsoft Excel
+Pivot Tables
+Pivot Charts
+Dashboard Design
+Data Visualization
 
-• Which products should I prioritize in inventory?
+📊 Key Insights
+Peak Business Hours
 
-• Which store actually drives the business?
+Transactions peak between 7:00–10:00 AM, indicating strong morning demand.
 
-That’s the mindset behind this Coffee Shop Business Performance Dashboard (2023). From the data, I focused on:
+Recommendation
 
-☕ Staffing decisions — transactions peak between 7–10 AM, highlighting strong morning demand
+Schedule more staff during peak hours.
+Prepare inventory before morning rush.
+Product Performance
 
-📦 Inventory planning — coffee dominates revenue contribution, while regular size is the most preferred option
+Coffee contributes the largest share of total revenue, while Regular is the most popular size.
 
-🏬 Store performance — Hell’s Kitchen consistently generates the highest revenue among all locations
+Recommendation
 
-This project is part of my journey transitioning into a Data Analyst / Business Analyst role, where I focus on turning data into clear, actionable insights — not just visuals.
+Prioritize inventory for coffee products.
+Create upselling promotions for Regular size drinks.
+Store Performance
 
-📊 Dashboard created using Excel: https://drive.google.com/file/d/1ZF7tX_XHisl0LjYqps2RZ9rGn1V2WeEV/view?usp=sharing
+Hell's Kitchen consistently generates the highest revenue among all stores.
 
-💬 Feedback and discussion are always welcome.
+Recommendation
 
-#DataAnalytics #BusinessAnalytics #DataAnalyst #DashboardDesign #ExcelDashboard #DataStorytelling #CareerSwitch #DataPortfolio
+Analyze the factors behind its success.
+Replicate effective strategies in other locations.
+
+📂 Dataset
+
+Coffee Shop Sales Dataset (2023)
+
+🔗 Dashboard
+
+Excel Dashboard:
+https://drive.google.com/file/d/1ZF7tX_XHisl0LjYqps2RZ9rGn1V2WeEV/view?usp=sharing
+
+💡 Skills Demonstrated
+Data Cleaning
+Exploratory Data Analysis
+Business Analysis
+Dashboard Design
+Data Visualization
+Business Recommendation
+
+📌 Business Impact
+
+This project demonstrates how sales data can be transformed into actionable insights for staffing, inventory planning, and store performance evaluation.
