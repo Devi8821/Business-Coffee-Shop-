@@ -33,7 +33,7 @@ This project analyzes coffee shop sales performance to identify customer purchas
 
 **📊 Key Insights**
 
-**Peak Business Hours**
+**1. Peak Business Hours**
 
 
 Transactions peak between 7:00–10:00 AM, indicating strong morning demand.
@@ -45,9 +45,9 @@ Transactions peak between 7:00–10:00 AM, indicating strong morning demand.
 - Schedule more staff during peak hours.
 
 - Prepare inventory before morning rush.
-- 
 
-**Product Performance**
+
+**2. Product Performance**
 
 
 Coffee contributes the largest share of total revenue, while Regular is the most popular size.
@@ -61,7 +61,7 @@ Coffee contributes the largest share of total revenue, while Regular is the most
 - Create upselling promotions for Regular size drinks.
 
 
-**Store Performance**
+**3. Store Performance**
 
 
 Hell's Kitchen consistently generates the highest revenue among all stores.
