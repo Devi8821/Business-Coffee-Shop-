@@ -1,13 +1,20 @@
 ☕ Coffee Shop Business Performance Analysis
+
 📌 Project Overview
 
 This project analyzes coffee shop sales performance to identify customer purchasing patterns, operational trends, and business opportunities. The objective is to demonstrate how data can support daily business decisions in retail operations.
 
+
 🎯 Business Questions
+
 When are the busiest business hours?
+
 Which products generate the highest revenue?
+
 Which product sizes are most preferred?
+
 Which store performs the best?
+
 What business actions can improve sales and operations?
 
 🛠 Tools
